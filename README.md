@@ -1,112 +1,95 @@
-# 👨‍💻 Pathmanathan Pahithran  
-**Software Engineer | Full Stack Developer**
+# 🚀 Full Stack Developer  – Pathmanathan Pahithran
 
-[![GitHub](https://img.shields.io/badge/GitHub-pahi--dev-black?logo=github)](https://github.com/pahi-dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Pathmanathan%20Pahithran-blue?logo=linkedin)](https://www.linkedin.com/in/pahithran)
-📧 pahitharan2@gmail.com | 📞 +94 741 393 983  
-📍 Batticaloa, Sri Lanka  
+## 👨‍💻 About Me
 
----
+I am a **Software Engineer / Full Stack Developer** with a strong foundation in **React (TypeScript)** and **Spring Boot**, combined with analytical thinking from an arts background. I am passionate about building **scalable, secure, and user‑centered applications** using clean code and modern development practices.
 
-## 🚀 About Me
-I am a **Software Engineer and Full Stack Developer** with a strong foundation in **React (TypeScript)** and **Spring Boot**, combined with analytical thinking from a **BA (General)** background.  
-I am passionate about building **scalable, secure, and user-centered applications** using clean architecture and modern development practices.
+* 🎓 BA (General) – University of Jaffna
+* 💻 Full Stack Developer – Samuel Gnanam IT Centre
+* 🌍 Location: Sri Lanka
 
 ---
 
-## 🎓 Education & Training
+## 🛠️ Tech Stack
 
-### **Full Stack Developer**  
-**Samuel Gnanam IT Centre** — Jaffna, Sri Lanka  
-📅 *Sep 2025 – Present*  
-🔗 https://samuelgnanam.com
+### Frontend
 
-### **BA (General)**  
-**University of Jaffna** — Jaffna, Sri Lanka  
-📅 *Oct 2021 – Present*  
-📚 Subjects: Information Technology, Economics  
-🔗 https://www.jfn.ac.lk
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge\&logo=bootstrap\&logoColor=white)
 
----
+### Backend
 
-## 🛠️ Technical Skills
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=java\&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge\&logo=springboot\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=node.js\&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge\&logo=express\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-**Frontend**
-- React.js, TypeScript
-- HTML5, CSS3, Bootstrap
+### Database & Tools
 
-**Backend**
-- Spring Boot, Java
-- Node.js, Express
-- PHP
-
-**Databases**
-- MySQL, MongoDB
-
-**Tools & Practices**
-- Git & GitHub
-- RESTful APIs
-- Postman
-- JWT Authentication
-- Clean Code
-- Team Collaboration
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge\&logo=mongodb\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge\&logo=postman\&logoColor=white)
 
 ---
 
-## 📂 Projects
+## 📌 Projects
 
-### 🔹 Leave Management System
-**Tech Stack:** Spring Boot, React (TypeScript), MySQL  
+### 1️⃣ Leave Management System
 
-- Built a full-stack system to automate the employee leave lifecycle.
-- Designed secure REST APIs with **JWT authentication** and **role-based access control (RBAC)**.
-- Developed a dynamic React frontend for leave requests, approvals, and status tracking.
-- Designed and normalized MySQL database schema for performance and scalability.
-- Implemented leave balance tracking, multi-level approvals, and reporting dashboards.
+**Tech:** Spring Boot, React (TypeScript), MySQL, JWT, GitHub, Postman
 
----
-
-### 🔹 Disability Support Portal
-**Tech Stack:** PHP, HTML, Bootstrap, MySQL  
-
-- Developed an accessible web portal to support individuals with disabilities.
-- Implemented key modules:
-  - Fund Claims Tracker
-  - Center Locator with map integration
-  - Information Hub for guidelines and resources
-- Built a fully responsive and accessibility-focused UI.
-- Designed structured MySQL schemas for efficient data management.
+* Automated the complete employee leave lifecycle
+* Implemented **JWT authentication** and **Role‑Based Access Control (Admin, Manager, Employee)**
+* Designed normalized MySQL database schema
+* Built analytics dashboards and multi‑level approval workflows
+* Followed clean architecture and RESTful API standards
 
 ---
 
-### 🔹 User Profile Management System
-**Tech Stack:** React, Node.js, Express  
+### 2️⃣ Disability Support Portal
 
-- Created a full-stack application for user profile management.
-- Implemented profile editing with real-time validation and toast notifications.
-- Built secure avatar upload functionality using **Multer**.
-- Designed a modern, responsive UI using CSS Grid and Flexbox.
-- Applied **Joi validation** for secure and reliable API endpoints.
+**Tech:** PHP, HTML, Bootstrap, MySQL
+
+* Built an accessible, responsive portal for people with disabilities
+* Core modules:
+
+  * Fund Claims Tracker
+  * Center Locator with map integration
+  * Information Hub
+* Focused on accessibility, usability, and real‑world impact
 
 ---
 
-## 📜 Certifications
+### 3️⃣ User Profile Management System
 
-- **Getting Started with Full Stack Java Development**  
-  *Simplilearn SkillUp (2025)*  
-  12-hour professional course focused on modern Java full-stack development.
+**Tech:** React, Node.js, Express
 
-- **Digital SkillUp Program**  
-  *American Corner Jaffna & Big Tree (2022)*  
-  Training in digital tools, communication technologies, and professional IT skills.
+* Full‑stack user profile management application
+* Profile editing with real‑time validation and toast notifications
+* File uploads using **Multer** for avatar management
+* Secure APIs with Joi validation
+
+---
+
+## 🎓 Certifications
+
+* **Getting Started with Full Stack Java Development** – Simplilearn SkillUp (2025)
+* **Digital SkillUp Program** – American Corner Jaffna (2022)
 
 ---
 
 ## 📫 Contact
-- **Email:** pahitharan2@gmail.com  
-- **GitHub:** https://github.com/pahi-dev  
-- **LinkedIn:** https://www.linkedin.com/in/pahithran  
+
+* 📧 Email: [pahitharan2@gmail.com](mailto:pahitharan2@gmail.com)
+* 💼 LinkedIn: [https://www.linkedin.com/in/pahitharan](https://www.linkedin.com/in/pahitharan)
+* 🧑‍💻 GitHub: [https://github.com/pahi-dev](https://github.com/pahi-dev)
 
 ---
 
-⭐ *Feel free to explore my repositories and connect with me!*  
+⭐ If you find this repository useful, please give it a star!
