@@ -11,7 +11,10 @@ I am a **Software Engineer / Full Stack Developer** with a strong foundation in 
 ---
 
 ## 🛠️ Tech Stack
-React · TypeScript · JavaScript · HTML · CSS · Bootstrap · Java · Spring Boot · Node.js · Express · PHP · MySQL · MongoDB · Git · GitHub · Postman
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,bootstrap,java,spring,nodejs,express,php,mysql,mongodb,git,github,postman" />
+</p>
+
 
 ---
 
