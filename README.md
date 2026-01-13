@@ -38,51 +38,6 @@ I am a **Software Engineer / Full Stack Developer** with a strong foundation in 
 
 ---
 
-## 📌 Projects
-
-### 1️⃣ Leave Management System
-
-**Tech:** Spring Boot, React (TypeScript), MySQL, JWT, GitHub, Postman
-
-* Automated the complete employee leave lifecycle
-* Implemented **JWT authentication** and **Role‑Based Access Control (Admin, Manager, Employee)**
-* Designed normalized MySQL database schema
-* Built analytics dashboards and multi‑level approval workflows
-* Followed clean architecture and RESTful API standards
-
----
-
-### 2️⃣ Disability Support Portal
-
-**Tech:** PHP, HTML, Bootstrap, MySQL
-
-* Built an accessible, responsive portal for people with disabilities
-* Core modules:
-
-  * Fund Claims Tracker
-  * Center Locator with map integration
-  * Information Hub
-* Focused on accessibility, usability, and real‑world impact
-
----
-
-### 3️⃣ User Profile Management System
-
-**Tech:** React, Node.js, Express
-
-* Full‑stack user profile management application
-* Profile editing with real‑time validation and toast notifications
-* File uploads using **Multer** for avatar management
-* Secure APIs with Joi validation
-
----
-
-## 🎓 Certifications
-
-* **Getting Started with Full Stack Java Development** – Simplilearn SkillUp (2025)
-* **Digital SkillUp Program** – American Corner Jaffna (2022)
-
----
 
 ## 📫 Contact
 
