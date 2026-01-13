@@ -1,4 +1,4 @@
-# 🚀 Software Engineer  – Pathmanathan Pahithran
+# 🚀 Software Engineer  – Pathmanathan Pahitharan
 
 ## 👨‍💻 About Me
 
