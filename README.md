@@ -1,4 +1,4 @@
-# 🚀 Full Stack Developer  – Pathmanathan Pahithran
+# 🚀 Software Engineer  – Pathmanathan Pahithran
 
 ## 👨‍💻 About Me
 
