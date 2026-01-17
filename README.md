@@ -4,7 +4,7 @@
 I am a **Software Engineer / Full Stack Developer** with a strong foundation in **React (TypeScript)** and **Spring Boot**, combined with analytical thinking from an arts background. I am passionate about building **scalable, secure, and user-centered applications** using clean code and modern development practices.
 
 - 🎓 BA (General) – University of Jaffna
-- 💻 Full Stack Developer – Samuel Gnanam IT Centre
+- 💻 Full Stack Developer(Trainee)– Samuel Gnanam IT Centre
 - 🌍 Location: Sri Lanka
 
 ---
